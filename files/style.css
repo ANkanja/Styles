@@ -1,0 +1,86 @@
+
+
+.btn1{
+    background-color: #b8860b;
+    color: aliceblue;
+    border: unset;
+}
+
+.btn2{
+    background-color: #b8860b;
+    color: aliceblue;
+    border: unset;
+    height: 13vh;
+    border-radius: 60px;
+    
+}
+
+#home {
+    background-image: url('hero-banner.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 0;
+  }
+  
+  #collections .card {
+    margin-bottom: 30px;
+  }
+
+  .highlight-text {
+    color: #b8860b; /* Change the text color to #b8860b */
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
